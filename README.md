@@ -1,6 +1,6 @@
 # Evellyn Cristina Polidorio Louzada 
 
-- estou estudando ma Alura
+- estou estudando na Alura
 - estou me desenvolvendo no GitHub
 - utilizo esse espaço para minha organização e compartilhamento dos meus projetos desenvolvidos
 
